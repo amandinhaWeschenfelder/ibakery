@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bike Shop</string>
+    <string name="action_trocasenha">Alterar senha</string>
+    <string name="action_sair">Sair</string>
+    <string name="title_activity_alterar_senha">AlterarSenhaActivity</string>
+    <string name="title_activity_bike_detalhada">BikeDetalhada</string>	
+</resources>
